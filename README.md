@@ -1,3 +1,5 @@
+# DEPRECATED IN FAVOR OF [vim-simpledb](https://github.com/ivalkeen/vim-simpledb)
+
 postgres-vim
 =
 
